@@ -1,0 +1,7 @@
+//    FILE: RpcExplicit.acf
+[
+    explicit_handle
+] 
+interface RpcExplicit
+{
+}
